@@ -13,7 +13,8 @@ after installation of required modules run the bat file `start.bat`
 
 ```
 # Disclaimer ⚠️
-- Don't use this frequently, else legit reports can lead you to ban..
-
+- developers are not responsible for any unusual activity or misshappening..!
+- Tested more than 50x times.
+  
 # Credits 💻
 - [Volksgeist](https://github.com/volksgeistt)
